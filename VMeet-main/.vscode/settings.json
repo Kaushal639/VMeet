@@ -1,0 +1,10 @@
+{
+    "codeium.detectProxy": false,
+    "codeium.enableCodeLens": true,
+    "codeium.enableExplainProblem": false,
+    "codeium.enableSearch": false,
+    "codeium.disableSupercomplete": true,
+    "vsicons.presets.nestjs": true,
+    "vsicons.presets.jsonOfficial": true,
+    "vsicons.presets.jsOfficial": true
+}
